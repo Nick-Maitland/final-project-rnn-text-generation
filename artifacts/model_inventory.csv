@@ -1,0 +1,5 @@
+model_name,model_file,corpus_label,granularity,num_sequences,vocab_size
+shakespeare_char,/mnt/data/final_project_submission/technical/models/shakespeare_char.h5,Shakespeare (Hamlet),char,8730,38
+shakespeare_word,/mnt/data/final_project_submission/technical/models/shakespeare_word.h5,Shakespeare (Hamlet),word,9962,4798
+social_char,/mnt/data/final_project_submission/technical/models/social_char.h5,Social media tweets,char,10825,66
+social_word,/mnt/data/final_project_submission/technical/models/social_word.h5,Social media tweets,word,11872,7469

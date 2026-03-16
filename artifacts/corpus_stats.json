@@ -1,0 +1,12 @@
+{
+  "shakespeare": {
+    "source_file": "/mnt/data/final_project_submission/technical/data/processed/shakespeare_hamlet_clean.txt",
+    "word_count": 39863,
+    "char_count": 174660
+  },
+  "social_media": {
+    "source_file": "/mnt/data/final_project_submission/technical/data/processed/social_media_tweets_clean.txt",
+    "word_count": 47502,
+    "char_count": 216559
+  }
+}

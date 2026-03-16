@@ -1,0 +1,5 @@
+model_name,corpus_label,granularity,epochs_ran,train_loss,val_loss,train_accuracy,val_accuracy,train_perplexity,val_perplexity,num_sequences,vocab_size,model_file
+shakespeare_char,Shakespeare (Hamlet),char,2,2.4668591767758135,2.379995001413841,0.3013872979508718,0.3138602520045819,11.785372887868396,10.80484885482834,8730,38,/mnt/data/final_project_submission/technical/models/shakespeare_char.h5
+shakespeare_word,Shakespeare (Hamlet),word,3,5.104443382371251,5.751931347521434,0.15134954271693063,0.1395582329317269,164.7523409475087,314.79805799792297,9962,4798,/mnt/data/final_project_submission/technical/models/shakespeare_word.h5
+social_char,Social media tweets,char,3,2.526106842976386,2.4915509682265755,0.2798932566971159,0.27726432532347506,12.504728377428295,12.079997290696776,10825,66,/mnt/data/final_project_submission/technical/models/social_char.h5
+social_word,Social media tweets,word,3,5.636475307873381,6.444998010829806,0.1306504445484324,0.12552653748946924,280.4723953648379,629.5454246877749,11872,7469,/mnt/data/final_project_submission/technical/models/social_word.h5

@@ -1,0 +1,23 @@
+Training shakespeare_word | sequences=9962 | vocab=4798
+  shakespeare_word epoch 1: train_loss=6.2883 val_loss=5.8135 train_acc=0.097 val_acc=0.120
+  shakespeare_word epoch 2: train_loss=5.4840 val_loss=5.7354 train_acc=0.128 val_acc=0.131
+  shakespeare_word epoch 3: train_loss=5.1044 val_loss=5.7519 train_acc=0.151 val_acc=0.140
+  shakespeare_word epoch 4: train_loss=4.6819 val_loss=5.7887 train_acc=0.172 val_acc=0.135
+Training shakespeare_char | sequences=8730 | vocab=38
+  shakespeare_char epoch 1: train_loss=2.9126 val_loss=2.6041 train_acc=0.202 val_acc=0.289
+  shakespeare_char epoch 2: train_loss=2.4605 val_loss=2.3703 train_acc=0.307 val_acc=0.317
+  shakespeare_char epoch 3: train_loss=2.3114 val_loss=2.2810 train_acc=0.332 val_acc=0.341
+  shakespeare_char epoch 4: train_loss=2.2157 val_loss=2.2047 train_acc=0.352 val_acc=0.356
+Training social_word | sequences=11872 | vocab=7469
+  social_word epoch 1: train_loss=6.8899 val_loss=6.5009 train_acc=0.090 val_acc=0.106
+  social_word epoch 2: train_loss=6.1329 val_loss=6.4031 train_acc=0.109 val_acc=0.117
+  social_word epoch 3: train_loss=5.6960 val_loss=6.4533 train_acc=0.125 val_acc=0.137
+  social_word epoch 4: train_loss=5.1711 val_loss=6.5903 train_acc=0.144 val_acc=0.133
+Training social_char | sequences=10825 | vocab=66
+  social_char epoch 1: train_loss=3.0868 val_loss=2.8669 train_acc=0.181 val_acc=0.202
+  social_char epoch 2: train_loss=2.6952 val_loss=2.6088 train_acc=0.249 val_acc=0.258
+  social_char epoch 3: train_loss=2.5355 val_loss=2.5047 train_acc=0.276 val_acc=0.278
+  social_char epoch 4: train_loss=2.4331 val_loss=2.4435 train_acc=0.302 val_acc=0.301
+
+Training complete. Saved artifacts to:
+/mnt/data/final_project_submission/technical
