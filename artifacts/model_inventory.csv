@@ -1,5 +1,7 @@
-model_name,model_file,corpus_label,granularity,num_sequences,vocab_size
-shakespeare_char,/mnt/data/final_project_submission/technical/models/shakespeare_char.h5,Shakespeare (Hamlet),char,8730,38
-shakespeare_word,/mnt/data/final_project_submission/technical/models/shakespeare_word.h5,Shakespeare (Hamlet),word,9962,4798
-social_char,/mnt/data/final_project_submission/technical/models/social_char.h5,Social media tweets,char,10825,66
-social_word,/mnt/data/final_project_submission/technical/models/social_word.h5,Social media tweets,word,11872,7469
+model_name,model_file,corpus_label,granularity,tokenizer_type,sequence_length,vocab_size
+shakespeare_word,/Users/nicolasmaitland/Library/CloudStorage/OneDrive-DurhamCollege/Agile/Final Project/final_project_submission/technical/models/shakespeare_word.h5,Shakespeare (Hamlet),word,word,40,2171
+shakespeare_char,/Users/nicolasmaitland/Library/CloudStorage/OneDrive-DurhamCollege/Agile/Final Project/final_project_submission/technical/models/shakespeare_char.h5,Shakespeare (Hamlet),char,char,120,63
+social_word,/Users/nicolasmaitland/Library/CloudStorage/OneDrive-DurhamCollege/Agile/Final Project/final_project_submission/technical/models/social_word.h5,Social media tweets,word,word,24,2544
+social_char,/Users/nicolasmaitland/Library/CloudStorage/OneDrive-DurhamCollege/Agile/Final Project/final_project_submission/technical/models/social_char.h5,Social media tweets,char,char,128,92
+shakespeare_subword,/Users/nicolasmaitland/Library/CloudStorage/OneDrive-DurhamCollege/Agile/Final Project/final_project_submission/technical/models/shakespeare_subword.h5,Shakespeare (Hamlet),subword,sentencepiece,64,1024
+social_subword,/Users/nicolasmaitland/Library/CloudStorage/OneDrive-DurhamCollege/Agile/Final Project/final_project_submission/technical/models/social_subword.h5,Social media tweets,subword,sentencepiece,64,1024
