@@ -1,58 +1,86 @@
 {
   "shakespeare_word": [
     {
-      "temperature": 0.8,
-      "text": "love; and the body and, and in the, and to him, you it to the, of the, and you, and, and i, my lord. i have"
+      "temperature": 0.75,
+      "text": "love, <unk>? and <unk>, <unk>, <unk>. for,., and,, <unk>. <unk> <unk>,. I,. and. <unk>, I, it, <unk> <unk> in the <unk> <unk>,, <unk> and, the <unk>., <unk>"
     },
     {
-      "temperature": 1.0,
-      "text": "love, and not to the the castle scene. and i am the the world, and not, i have to the polack of your!. i do, but and, and"
+      "temperature": 0.9,
+      "text": "love., <unk>. But, <unk>, in this <unk>. <unk>, this I, the <unk>. for,, I <unk>, <unk>, <unk>, <unk>,, and and. But you it to is <unk>, in the <unk> and;,."
     },
     {
-      "temperature": 1.2,
-      "text": "love; for it. king. how not, that the thing of the body of his, or in the polack of his of, and that the man with you, and in"
-    }
-  ],
-  "social_word": [
-    {
-      "temperature": 0.8,
-      "text": "love, just just a day, i think it.. i need to get a the day! i dont be to get a movie,. is not. i want to do"
-    },
-    {
-      "temperature": 1.0,
-      "text": "love i just do........... so sad i just have to be the same for a week? just on the way.. i don't"
-    },
-    {
-      "temperature": 1.2,
-      "text": "love. but it and i just feel was i just want to go the rain i need to go my mom to get a movie and i feel want a few days for, so"
+      "temperature": 1.05,
+      "text": "love,, and I, a <unk>. and, <unk> the of, and, and in the, <unk> in the <unk> <unk>? <unk> <unk> the <unk>, the the <unk>, the and. <unk> to <unk>, and, <unk> <unk> <unk> <unk>. and"
     }
   ],
   "shakespeare_char": [
     {
-      "temperature": 0.7,
-      "text": "love t in werandenghe sout aland in iat. het ar by hand hit il. tht hat it he heanst and ien thes. the torel thind ine thel thes at hen send thee ingesit hes th mime"
+      "temperature": 0.65,
+      "text": "love that and where for thour that his mone now his ming and in she and fill. RAALTAI. What hing shers, Onother mand in there and and ing whan the thing wo lies ing whing. Bour the mind shend ing what his time sterd Hom erance the the ming and p"
+    },
+    {
+      "temperature": 0.8,
+      "text": "love the ing will, sell nowe. HAMLET. I therer to there late fillis ing will. OI Is mot ing whill sere what and seat ing this and it of the ath ing whill. HAMIE. Whe mome ing what what we mave it there she my his, and ing and mand fimer that him"
+    },
+    {
+      "temperature": 0.95,
+      "text": "love shise mave thing siggnt, wince ting se mond and mother, HAMTET. And frould my uss lies, my has to the miset sir, I mont. Boust mother, Home mamins, and sime my hard. Hamlis, ing will ther follide will thing mint whole, my for mothes mest se"
+    }
+  ],
+  "social_word": [
+    {
+      "temperature": 0.75,
+      "text": "love <unk> I am I..... @USER I'm <unk>, and.... @USER <unk>.. is <unk> <unk> is <unk>! <unk>............... <unk>... <unk>."
     },
     {
       "temperature": 0.9,
-      "text": "love tatit is mese shird aong hil. fo hame hise hors, mersthas hortoes on ous it tharl month mout is, as henchar wond ilis. teathes wh istis. an. an. herit toullous "
+      "text": "love <unk> <unk> and. @USER <unk> <unk> <unk>. i <unk>....! <unk> @USER <unk>. the <unk>........... <unk>!..... I'm <unk>.! <unk> <unk> and and <unk> to"
     },
     {
-      "temperature": 1.1,
-      "text": "love ind aors int, oun and hus whelencan hous, onle hhees int as tores oft. theseld hesel hethand mit here merdales may sis hisding toad houts aad ti therend wind ml"
+      "temperature": 1.05,
+      "text": "love @USER <unk> I @USER I have I. the <unk>.!! I I. I no. <unk>.! @USER <unk> I am. <unk> <unk>...... I a <NUM> <unk> the....... @USER.."
     }
   ],
   "social_char": [
     {
+      "temperature": 0.65,
+      "text": "love hate thand to day Sourders to hander is colle bed to gat to sand at wat heave wither a cave a was thiss a dam not to day so chave a thanted to damm jave a thave one want thas to coll chand to was to wo the messincer thave a thand to lot haa"
+    },
+    {
+      "temperature": 0.8,
+      "text": "love have a bed the day have a got is got san one tis thot is got to was to to to gess a doot one mome thand to samp aday as cand at bed am neady it gett bed bomed to dicks and to gust a faned stumpyerdy a the aldy thave to link sitna have a cac"
+    },
+    {
+      "temperature": 0.95,
+      "text": "love to her ohained to ted cally the and thy watt to gan a can asted menting witt soray a wanker i hate a sat ter hout wish somici and to dome whitite to lishing i cale i cand bar i hated to dornt to hough to sordinkting the douncared tas withat"
+    }
+  ],
+  "shakespeare_subword": [
+    {
       "temperature": 0.7,
-      "text": "love ing woong arly bling ant wang ot to can thank mant bous wong in arly wo lat i go the gonothane be buc base bell man the bil the th ant it i ghe think stit sone "
+      "text": "love, Is.s.ing,,g youring and your,sg of I of a, it in I. in in, my a,y I,., I.  the.y, I, aing a,s. I. I. him,,, in it,,, Is thes, of I,., and,ing,s"
     },
     {
       "temperature": 0.9,
-      "text": "love in th men are whit bit h an th te ta sully mackeri ho gowe to bot in tonoted wot ion su ser tin an ow ante be thes bong sowrone su ger aon toee. ti coton o the "
+      "text": "love, you and the,., anding, I havesing the anding, ands the,, si.dingingg,p, v, ining a Iss and have the, of and thet. inss., I theinging andsgs, I. Is. sing the.d s andg"
     },
     {
       "temperature": 1.1,
-      "text": "love witt it wel sit sis timantt binge bler i ta leanote t oor to tous a son te so wall.ee goo to the it iss tout in wot o fo stoul hot i melst basing ile hom so cea"
+      "text": "lovesing it.s of it.p;a Is.s in the Is of, I  e, to.. And. him.. it.,. my its,, a.py.,ings, I a, I  your, yours of I a, aingiirssingol. I a , I it"
+    }
+  ],
+  "social_subword": [
+    {
+      "temperature": 0.7,
+      "text": "love I I's s'ss the the Ieeing to thes mas' to and' to tos doeing and. Io's i the to. my s. Itms I Iios I as I Ite as I te seo it 'sses "
+    },
+    {
+      "temperature": 0.9,
+      "text": "love it on'ts Ia to s. Ia ..it @seomab is I! thea totas mes meing. i It tto? i I'm Iisiting! I Im theed it et ito I en mye it,  toaning of I"
+    },
+    {
+      "temperature": 1.1,
+      "text": "lovetie to!. mys @respet ed.b @tsoooro I I s't a   itings I the! @ss to. my mys sts  ppsed theos Itasa me! i Imiming to be @sean"
     }
   ]
 }

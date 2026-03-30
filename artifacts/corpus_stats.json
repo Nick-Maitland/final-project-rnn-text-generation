@@ -1,12 +1,30 @@
 {
   "shakespeare": {
-    "source_file": "/mnt/data/final_project_submission/technical/data/processed/shakespeare_hamlet_clean.txt",
+    "source_file": "/Users/nicolasmaitland/Library/CloudStorage/OneDrive-DurhamCollege/Agile/Final Project/final_project_submission/technical/data/processed/shakespeare_hamlet_clean.txt",
     "word_count": 39863,
     "char_count": 174660
   },
   "social_media": {
-    "source_file": "/mnt/data/final_project_submission/technical/data/processed/social_media_tweets_clean.txt",
+    "source_file": "/Users/nicolasmaitland/Library/CloudStorage/OneDrive-DurhamCollege/Agile/Final Project/final_project_submission/technical/data/processed/social_media_tweets_clean.txt",
     "word_count": 47502,
     "char_count": 216559
+  },
+  "tokenizer_assets": {
+    "shakespeare_subword": {
+      "tokenizer_type": "sentencepiece",
+      "corpus_key": "shakespeare",
+      "model_file": "/Users/nicolasmaitland/Library/CloudStorage/OneDrive-DurhamCollege/Agile/Final Project/final_project_submission/technical/models/shakespeare_subword_tokenizer.model",
+      "vocab_file": "/Users/nicolasmaitland/Library/CloudStorage/OneDrive-DurhamCollege/Agile/Final Project/final_project_submission/technical/models/shakespeare_subword_tokenizer.vocab",
+      "vocab_size": 1024,
+      "normalization_profile": "sentencepiece_unigram"
+    },
+    "social_subword": {
+      "tokenizer_type": "sentencepiece",
+      "corpus_key": "social_media",
+      "model_file": "/Users/nicolasmaitland/Library/CloudStorage/OneDrive-DurhamCollege/Agile/Final Project/final_project_submission/technical/models/social_subword_tokenizer.model",
+      "vocab_file": "/Users/nicolasmaitland/Library/CloudStorage/OneDrive-DurhamCollege/Agile/Final Project/final_project_submission/technical/models/social_subword_tokenizer.vocab",
+      "vocab_size": 1024,
+      "normalization_profile": "sentencepiece_unigram"
+    }
   }
 }
